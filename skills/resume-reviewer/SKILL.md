@@ -59,3 +59,24 @@ Close with: *"Want me to hand these fixes to the Resume Writer skill and rebuild
 ## Honesty guardrails
 
 This is the whole point of the skill: be direct. If the resume is weak, say it's weak and why — softening it wastes the user's interviews. Don't invent metrics or accomplishments in rewrites; mark placeholders instead. Praise only what's genuinely strong, and keep it brief — the value is in the fixes.
+
+## Do NOT
+
+- Do NOT inflate scores to spare feelings — a 7 that should be a 4 sends a weak resume into real applications and costs interviews.
+- Do NOT give unanchored advice ("add more metrics", "tighten the summary") — every fix must quote the specific line it applies to.
+- Do NOT invent numbers or achievements in the rewrites — use **[X%]** / **[$ amount]** placeholders the user fills with real figures.
+- Do NOT judge a senior resume by IC standards or vice versa — task-level bullets on an executive resume are a Critical finding, not fine.
+- Do NOT rewrite the whole resume — that is Resume Writer's job; this skill rewrites only the 2-3 weakest bullets as proof of method.
+- Do NOT tell the user to stuff every JD keyword in — flag unsupported keywords as real gaps rather than coaching dishonesty.
+
+## Quality bar
+
+- Every dimension score is justified with quoted lines from the actual resume.
+- Every fix is tied to a specific bullet or section and tagged Critical / Important / Polish.
+- Rewrites contain zero fabricated metrics — placeholders are visibly marked.
+- The verdict line gives a clear send / don't-send call, calibrated to the stated role and seniority.
+- The `.docx` opens cleanly and follows the report structure in Step 7.
+
+## Deliverable
+
+Produce `<Name>_Resume_Review.docx` containing: the four-dimension scored rubric with an overall score and a send/don't-send verdict, a prioritized fix list (Critical / Important / Polish) with each fix tied to a quoted line, 2-3 before → after bullet rewrites with marked placeholders, and — if a job description was provided — the present / missing / unsupported keyword gap analysis.

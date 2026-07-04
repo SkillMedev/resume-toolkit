@@ -76,3 +76,24 @@ After delivering, offer: *"Want me to run this through the Resume Reviewer skill
 ## Honesty guardrails
 
 Give direct feedback, even when it's unwelcome — if their experience is thin for the target role, say so and suggest how to position around it. Don't pad, don't flatter, don't fabricate. A resume that overpromises gets caught in the interview.
+
+## Do NOT
+
+- Do NOT fabricate metrics, titles, dates, or employers — flag the gap and ask; an invented number gets dismantled in the first interview.
+- Do NOT draft before Batch 1 and Batch 2 are answered — a resume written from guesses is generic filler the user has to redo.
+- Do NOT use banned duty-phrases ("Responsible for," "Helped with," "Worked on") anywhere, including the summary.
+- Do NOT put contact info in a header/footer or use tables/columns/graphics for layout — parsers silently drop them and the resume arrives blank.
+- Do NOT stuff the Skills section with keywords the candidate can't back in conversation — mirror JD wording only for real skills.
+- Do NOT write the same resume for every seniority — task bullets on a director resume (or strategy fluff on a junior one) misses the bar the reader applies.
+
+## Quality bar
+
+- Every experience bullet leads with an action verb and carries a number, scope, or before/after — zero duty-phrases survive.
+- Section headings match the ATS-standard names exactly; one column, no tables, contact info in the body.
+- Length fits the level: 1 page under ~10 years, 2 pages senior/executive, no filler.
+- The summary names seniority + domain + a signature result and reads tailored to the target role.
+- The `.docx` follows the Step 5 build rules and opens cleanly.
+
+## Deliverable
+
+Produce `<FirstnameLastname>_Resume.docx` — a complete, ATS-safe resume with Summary, Skills, reverse-chronological Experience (3-5 quantified bullets per role), Education, and Certifications — plus a short note listing any gaps the user still needs to fill with real numbers and the offer to run it through Resume Reviewer.
