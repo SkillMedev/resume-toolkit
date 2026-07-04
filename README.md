@@ -9,7 +9,7 @@ A two-skill loop for getting a resume right. Resume Writer runs a short elicitat
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/resume-toolkit](https://skillme.dev/pack/resume-toolkit) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/resume-toolkit`
+- **With the skills CLI:** `npx skills add SkillMedev/resume-toolkit`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
