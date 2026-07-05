@@ -1,8 +1,8 @@
 # Resume Toolkit
 
-**Write a resume from scratch or critique the one you have — ATS-optimized, seniority-aware, delivered as .docx.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**Write a resume from scratch or critique the one you have - ATS-optimized, seniority-aware, delivered as .docx.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-A two-skill loop for getting a resume right. Resume Writer runs a short elicitation, then drafts a complete ATS-optimized resume — tailored summary, STAR-format action-verb bullets quantified wherever possible, clean standard sections — and exports a .docx. Resume Reviewer critiques an existing resume against a scored rubric (impact, ATS readiness, clarity, format/length), returns a prioritized fix list, rewrites the weakest bullets, and runs a keyword gap analysis against a target job description — also as a .docx. The two hand off to each other: review, then rebuild clean. Both are seniority-aware (IC vs manager vs executive), carry a strong action-verb library, follow ATS best practices throughout, and give honest, direct feedback.
+A two-skill loop for getting a resume right. Resume Writer runs a short elicitation, then drafts a complete ATS-optimized resume - tailored summary, STAR-format action-verb bullets quantified wherever possible, clean standard sections - and exports a .docx. Resume Reviewer critiques an existing resume against a scored rubric (impact, ATS readiness, clarity, format/length), returns a prioritized fix list, rewrites the weakest bullets, and runs a keyword gap analysis against a target job description - also as a .docx. The two hand off to each other: review, then rebuild clean. Both are seniority-aware (IC vs manager vs executive), carry a strong action-verb library, follow ATS best practices throughout, and give honest, direct feedback.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
